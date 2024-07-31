@@ -1,0 +1,3 @@
+/Users/udayvalisetty/Desktop/App Development/NPRapp/openCV/.cxx/Debug/5o5e105j/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+/Users/udayvalisetty/Desktop/App Development/NPRapp/openCV/.cxx/Debug/5o5e105j/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/udayvalisetty/Desktop/App Development/NPRapp/openCV/.cxx/Debug/5o5e105j/arm64-v8a/CMakeFiles/rebuild_cache.dir
